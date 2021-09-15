@@ -22,7 +22,7 @@
 ><h2><font size =4><strong><ins>Contribution</ins></strong></font></h2>
    
    <p>Jason C Lamanna:</p>
-    <ul>I think I would do best at developing the test manager and statistic tracking and probably some of the account and database work. I would say my weak point is developing a clean GUI so anyone with GUI skills that likes this idea, lets make it! Other than coding, I am well versed on GitHub and should be able to help keep the project organized while the team works on it. I am also fairly familiar with UML Structure Diagrams and think I can contribute a lot when coming up with design ideas for this project.</ul>
+    <ul>I am open to most object oriented languages but prefer C++, this task might be suited more towards Java though. I think I would do best at developing the test manager and statistic tracking and probably some of the account and database work. I would say my weak point is developing a clean GUI so anyone with GUI skills that likes this idea, lets make it! Other than coding, I am well versed on GitHub and should be able to help keep the project organized while the team works on it. I am also fairly familiar with UML Structure Diagrams and think I can contribute a lot when coming up with design ideas for this project.</ul>
      
    <br></br>
    
