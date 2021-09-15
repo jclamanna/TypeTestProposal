@@ -19,7 +19,7 @@
 
    <br></br>
 ><h2><font size =4><strong><ins>Project Relevance</ins></strong></font></h2>
->This project falls in line with many of our course education goals. We will have to employ object oriented design concepts in order to implement and account system and a test manager that handles taking the test. I think that using things like UML and possibly common design patterns would aid in this process. Additionally, test driven development can be useful in developing the statistics portion of this project. The test is going to need a GUI and also access to a database in order to manage user account data. Lastly, in order to complete this task we will need to employ good project management, including version control and issue tracking espedcially. This is because there are a lot of moving parts to this project.
+><p>This project falls in line with many of our course education goals. We will have to employ object oriented design concepts in order to implement and account system and a test manager that handles taking the test. I think that using things like UML and possibly common design patterns would aid in this process. Additionally, test driven development can be useful in developing the statistics portion of this project. The test is going to need a GUI and also access to a database in order to manage user account data. Lastly, in order to complete this task we will need to employ good project management, including version control and issue tracking espedcially. This is because there are a lot of moving parts to this project.</p>
 	
 ><h2><font size =4><strong><ins>Contribution</ins></strong></font></h2>
    
