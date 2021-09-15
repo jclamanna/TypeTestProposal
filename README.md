@@ -11,8 +11,6 @@
    <li><strong>Improvements Over Time Spent</strong></li>
    <li><strong>Most Missed Letter</strong></li>
 
-   <br></br>
-
    <p>I think the stats I have come up with are a good start but may be expanded on or changed in the future. The following is a loose UML diagram showing what I think the basic program structure could look like:</p>
    
 ![typetest_uml](typetest_uml.png)
